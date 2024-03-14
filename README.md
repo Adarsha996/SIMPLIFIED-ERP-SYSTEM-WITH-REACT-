@@ -12,7 +12,7 @@ This Project is done by using React Framework. It is fully functional, responsiv
 
 ### Installation
 1. For cloning repository to local machine
-#####   git clone https://github.com/shubhishivhare/ERP-Project.git
+#####   git clone https://github.com/Adarsha996/ERP-Project.git
 2. Navigate into the project directory
 #####   cd projectname
 3. Installing dependencies
